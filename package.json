@@ -1,0 +1,17 @@
+{
+  "name": "@wevns/preprocess-webpack-loader",
+  "version": "0.0.1",
+  "license": "BSL-1.0",
+  "main": "index.js",
+  "author": {
+    "name": "William Evans",
+    "email": "w@william.gg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wevns/preprocess-webpack-loader"
+  },
+  "dependencies": {
+    "preprocess": "^3.2.0"
+  }
+}
